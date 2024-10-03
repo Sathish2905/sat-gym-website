@@ -12,7 +12,7 @@ Welcome to the **Dragon Fitness Gym** website repository. This project is a fron
 - [License](#license)
 
 ## Demo
-You can check out the live demo of the website [here](#). *(Add the deployed link if available)*
+You can check out the live demo of the website [here](#https://sathish2905.github.io/sat-gym-website/). *(Add the deployed link if available)*
 
 ## Features
 - Clean and modern design
